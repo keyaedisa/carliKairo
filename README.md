@@ -1,5 +1,8 @@
 # ArcoLinuxIso Carli
 
+I would not try any of this if i were you
+
+
 To be able to build you install this package
 
 sudo pacman -S archiso
