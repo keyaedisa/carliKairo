@@ -168,3 +168,11 @@ gvfs
 gvfs-smb
 xdg-user-dirs-gtk
 lsb-release
+
+
+#My Editions
+firefox
+dolphin
+yakuake
+konsole
+gnome-disk-utility
